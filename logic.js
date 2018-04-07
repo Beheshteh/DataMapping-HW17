@@ -116,14 +116,8 @@ legend.onAdd = function (map) {
 }
 
 return div;
-};
+}; //legend
 
 legend.addTo(myMap);
-
-
-
-
-
-
 
 }
