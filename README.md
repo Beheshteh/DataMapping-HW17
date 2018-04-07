@@ -7,7 +7,7 @@ climate and land-use change.
 
 ## Basic Visualization
 1. Used this data set: (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) 
- 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. 
+ 'All Earthquakes from the Past 7 Days', used JSON representation of that data. 
 
 2. Created a map using Leaflet that plots all of the earthquakes 
 from your data set based on their longitude and latitude.
